@@ -1,10 +1,10 @@
 import React from "react";
-import Github from "./components/Github";
+import Business from "./components/Business";
 
 function App() {
   return (
     <>
-      <Github />
+      <Business/>
     </>
   );
 }
